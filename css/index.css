@@ -1,0 +1,61 @@
+*{
+    color: white !important;
+}
+
+body{
+    background-color: #FFF5EE;
+}
+
+#titulo:hover{
+    color: #c0c0c0 !important;
+    text-decoration: underline;
+}
+
+
+
+.center{
+    padding-top: 2%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.cobj{
+    width: 60% !important;
+    height: 150px !important;
+    
+}
+#pg-buy{
+    padding-top: 30%;
+}
+.card-title{
+    color: white !important;
+    font-size: 24px !important;
+}
+.card-text{
+    color: white !important;
+}
+p{
+    color: white;
+}
+.nav-link{
+    font-size: 25px !important;
+}
+.card{
+    box-shadow: black 2px 2px;
+    border-radius: 10px !important;
+}
+.card-img-top{
+    border-radius: 10px !important;
+    
+}
+.secao{
+    padding-bottom: 150px;
+}
+
+h5{
+    text-decoration: underline !important;
+}
+h2{
+    color: whitesmoke !important;
+}
